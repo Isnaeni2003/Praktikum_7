@@ -5,7 +5,7 @@ Pada pemrograman python terdapat sebuah method dengan nama __init__(), Fungsi Me
 ![image](https://user-images.githubusercontent.com/115929351/208215616-aa6c0dda-0d96-4f69-8b68-4dd05869066f.png)
 
 Function di dalam sebuah class disebut sebagai sebuah metode class tersebut. Di sini kita buat sebuah metode bernama __init__. Metode dengan nama ini sudah direservasi oleh Python sebagai metode yang dipanggil saat kita membuat sebuah objek. Di setiap metode class harus selalu ada self sebagai parameter pertamanya. Variabel self merujuk kepada objek dari class tersebut. Di metode ini kita tambah sebuah parameter bernama nama_gadget. Di metode ini juga kita membuat properti nama dengan sintaks self.nama dan memberikan nilai dari nama_gadget.
-## Latihan Membuat Program Menampilkan Menu Mahasiswa
+## Latihan Membuat Program Menampilkan Daftar Menu Mahasiswa
 Tugas Praktikum
 
 Buatlah program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa dengan ketentuan :
@@ -18,9 +18,9 @@ c. Method ubah() untuk mengubah data
 
 c. Method hapus() untuk menghapus data
 
-Buat diagram class, flowchart dan penjelasannya pada README.md
+d. Buat diagram class, flowchart dan penjelasannya pada README.md
 
-Commit dan push repository ke github
+e. Commit dan push repository ke github
 
 ## Flowchart
 ![Flowcharts](https://user-images.githubusercontent.com/115929351/208222109-41f7d3ef-859a-47d8-aaca-b0aac00c5525.png)
